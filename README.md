@@ -7,9 +7,10 @@
 #### Full Stack Web Development
 * MongoDb
 * Express.js
-* Vue.js
+* Vue3
 * Node.js
 * Vue Ecosystem and Other Tools
+* TailwindCSS
 
 #### Full Stack Software Development
 * Java
