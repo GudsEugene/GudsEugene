@@ -7,10 +7,10 @@
 #### Full Stack Web Development
 * MongoDb
 * Express.js
-* Vue3
+* React.js
 * Node.js
-* Vue Ecosystem and Other Tools
-* TailwindCSS
+* React Ecosystem and Other Tools
+* Material UI
 
 #### Full Stack Software Development
 * Java
